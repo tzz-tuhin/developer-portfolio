@@ -97,6 +97,24 @@ h2{
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
+.border-text1{
+    border-left: 10px solid red;
+    border-right: 10px solid red;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 170px;
+    background-color: #d4d0d0;
+    border-radius: 0px 17px;
+}
+.border-text2{
+    border-left: 10px solid red;
+    border-right: 10px solid red;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 170px;
+    background-color: #d4d0d0;
+    border-radius: 0px 17px;
+}
 footer p{
     text-align: center;
 }
